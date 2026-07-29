@@ -9,6 +9,6 @@ class Config:
 
     MODEL_NAME = "gemini-3.5-flash"
 
-    MAX_OUTPUT_TOKENS = 512
+    MAX_OUTPUT_TOKENS = 2048
 
     TEMPERATURE = 0.7
